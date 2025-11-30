@@ -23,7 +23,7 @@ El resultado es una **SPA (Single Page Application)** rápida, estética y autog
 
 | Home Desktop | Vista Móvil |
 |:---:|:---:|
-| ![Home Screenshot](assets/Web%20Mockup%201.pdf) | ![Mobile Screenshot](assets/Web%20Mockup%202.pdf) |
+| ![Home Screenshot](assets/1.png) | ![Mobile Screenshot](assets/2.png) |
 
 ---
 
