@@ -21,9 +21,17 @@ El resultado es una **SPA (Single Page Application)** rápida, estética y autog
 
 ## 📸 Galería del Proyecto
 
-| Home Desktop | Vista Móvil |
-|:---:|:---:|
-| ![Home Screenshot](assets/1.png) | ![Mobile Screenshot](assets/2.png) |
+| Home  |
+|:---:|
+| ![Home Screenshot](assets/1.png) |
+
+| Cursos |
+|:---:|
+| ![Mobile Screenshot](assets/2.png) |
+
+| Footer |
+|:---:|
+| ![Mobile Screenshot](assets/3.png) |
 
 ---
 
