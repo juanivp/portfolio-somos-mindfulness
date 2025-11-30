@@ -48,7 +48,7 @@ Implementé una arquitectura donde **Google Sheets actúa como Base de Datos y C
 > *Esto redujo la fricción de mantenimiento a cero y empoderó a la clienta para gestionar su negocio con autonomía.*
 
 Puedes ver la lógica de conexión y parseo de datos aquí:
-👉 **[Ver Snippet: GoogleSheetService.js](./snippets/GoogleSheetService.js)**
+👉 **[Ver Snippet: googleSheetService.js](./snippets/googleSheetService.js)**
 
 ---
 
